@@ -55,4 +55,7 @@ This is a web-based Employee Task Management System developed using PHP and MySQ
 ![Reports](images/reports.png)
 
 ## Author
-BIM Undergraduate Student, Nepal
+Kremisha Oli  
+Bachelor of Information Management (BIM) Student  
+Aspiring Web Developer  
+GitHub: https://github.com/kremishaoli
