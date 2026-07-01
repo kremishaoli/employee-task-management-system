@@ -35,7 +35,24 @@ This is a web-based Employee Task Management System developed using PHP and MySQ
    `http://localhost/etms/`
 
 ## Screenshots
-(Add screenshots here later)
+
+### Home Page
+![Home Page](images/home.png)
+
+### Login Page
+![Login Page](images/login.png)
+
+### Admin Dashboard
+![Admin Dashboard](images/admin-dashboard.png)
+
+### Employee Dashboard
+![Employee Dashboard](images/employee-dashboard.png)
+
+### Super Admin Dashboard
+![Super Admin Dashboard](images/superadmin-dashboard.png)
+
+### Reports Page
+![Reports](images/reports.png)
 
 ## Author
 BIM Undergraduate Student, Nepal
